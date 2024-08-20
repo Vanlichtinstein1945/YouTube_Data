@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Requests",
+    "\\app\\Http\\Requests\\Auth",
+    "\\app\\Models",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\auth",
+    "\\resources\\views\\profile"
+  ],
+  "SelectedNode": "\\resources\\views\\components\\video-tile.blade.php",
+  "PreviewInSolutionExplorer": false
+}
